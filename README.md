@@ -8,4 +8,5 @@
 
 # Instructions
 
-Hello world! :D
+I promise not to forget that all future assignments may be heavily penalized for failure to commit frequently as I do my work.
+
