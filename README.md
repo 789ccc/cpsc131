@@ -8,4 +8,4 @@
 
 # Instructions
 
-Hello world.gi
+Hello world.g
